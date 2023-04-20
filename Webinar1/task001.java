@@ -29,5 +29,6 @@ public class task001 {
         } else {
             System.out.println("Доброй ночи, " + name + "!");
         }
+        scanner.close();
     }
 }
