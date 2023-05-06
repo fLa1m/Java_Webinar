@@ -33,5 +33,6 @@ public class task002 {
                     list.add(num, text);
             }
         }
+        scanner.close();
     }
 }

@@ -37,5 +37,6 @@ public class task003 {
                     list.add(line);
             }
         }
+        scanner.close();
     }
 }
